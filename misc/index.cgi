@@ -50,7 +50,7 @@ cat << EOF
 <p> Do NOT update / restart / stop your OpenShift App before it finishes.
 </p>
 <h2> Links </h2>
-<p> More Information: <a href='https://github.com/laobubu/openshift-php5.5-cgi-apache'>https://github.com/laobubu/openshift-php5.5-cgi-apache</a>
+<p> More Information: <a href='https://github.com/reneisrael/openshift-php7.0-cgi-apache'>https://github.com/reneisrael/openshift-php7.0-cgi-apache</a>
 </p>
 <h2> Control </h2>
 
